@@ -21,3 +21,5 @@ uv run quantize.py
 ```
 
 El modelo está pensado para ejecutarse en WebAssembly por lo que solo funcionará en Chrome. En mi ordenador (MacBook Pro M1 64GB RAM) la latencia del modelo son unos 7ms y el consumo en memoria está por debajo de 1GB así que no lo puedo medir bien del todo.
+
+![Demo](https://github.com/Jerry-Master/web-ocr-demo/raw/refs/heads/main/Demo%20web%20ocr.mp4)
